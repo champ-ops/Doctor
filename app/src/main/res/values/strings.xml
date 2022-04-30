@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DoctorApp</string>
+
+    <string-array name="names">
+        <item>John Connor</item>
+        <item>Alan Jenkins</item>
+        <item>Paul Anderson</item>
+        <item>Julia Roberts</item>
+        <item>Abu Namzhach</item>
+        <item>Djabu Wahan</item>
+        <item>Wolfova Irina Sergeevna</item>
+        <item>Martha Smitt</item>
+        <item>Monika Parker</item>
+        <item>Elizabet Watson</item>
+        <item>Eva Modrich</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Neurologist</item>
+        <item>Surgeon</item>
+        <item>Urologist</item>
+        <item>Psychologist</item>
+        <item>Dentist</item>
+        <item>Medical surgery nurse</item>
+        <item>Optometrist</item>
+        <item>Cosmetologist</item>
+        <item>Veterinarian</item>
+        <item>Pediatrician</item>
+        <item>Therapist</item>
+    </string-array>
+</resources>
